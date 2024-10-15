@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 15 14:13:57 CST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0192-91d0-ddf2-00000534c9c0 
+on database directory /Users/gretelfurrer/MAESTRIA_CIENCIA_DE_DATOS/1er_semestre_MCD/PROCESAMIENTO DE GRANDES BASES DE DATOS/procesbigdata/7. Notebebooks/1. Fundamentos/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/opt/homebrew/anaconda3/envs/ProcesBigData/lib/python3.8/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Homebrew
+java.runtime.version=11.0.24+0
+user.dir=/Users/gretelfurrer/MAESTRIA_CIENCIA_DE_DATOS/1er_semestre_MCD/PROCESAMIENTO DE GRANDES BASES DE DATOS/procesbigdata/7. Notebebooks/1. Fundamentos
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
