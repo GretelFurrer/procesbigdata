@@ -2,3 +2,7 @@
 2. Analitica PySpark/data/*.csv
 4. Spark_ML_Koalas/data/*.csv
 5. Apache Spark Streaming/data/*.*
+2. Analitica PySpark/dataset.csv
+2. Analitica PySpark/dataset.json
+2. Analitica PySpark/dataset.parquet
+
